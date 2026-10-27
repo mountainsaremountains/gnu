@@ -1,0 +1,1 @@
+A minor mode for editing shen source code.
